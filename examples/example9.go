@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/nlopes/slack"
-	"github.com/shomali11/slacker"
+	"github.com/eberson/slack"
+	"github.com/eberson/slacker"
 )
 
 func main() {

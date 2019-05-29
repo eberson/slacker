@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/nlopes/slack"
-	"github.com/shomali11/slacker"
+	"github.com/eberson/slack"
+	"github.com/eberson/slacker"
 	"log"
 )
 

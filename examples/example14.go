@@ -5,7 +5,7 @@ import (
 
 	"context"
 	"fmt"
-	"github.com/shomali11/slacker"
+	"github.com/eberson/slacker"
 )
 
 func main() {

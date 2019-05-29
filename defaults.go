@@ -1,6 +1,6 @@
 package slacker
 
-import "github.com/nlopes/slack"
+import "github.com/eberson/slack"
 
 // ClientOption an option for client values
 type ClientOption func(*ClientDefaults)

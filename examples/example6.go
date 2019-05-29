@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"github.com/shomali11/slacker"
+	"github.com/eberson/slacker"
 	"log"
 	"time"
 )

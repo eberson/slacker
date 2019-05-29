@@ -3,7 +3,7 @@ package slacker
 import (
 	"context"
 
-	"github.com/nlopes/slack"
+	"github.com/eberson/slack"
 	"github.com/shomali11/proper"
 )
 
